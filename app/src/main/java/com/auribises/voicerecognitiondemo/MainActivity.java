@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
 
     // Speech To Text Conversion
     // Text To Speech
-    
+
     TextView txtWords;
     Button btnSpeak;
 
